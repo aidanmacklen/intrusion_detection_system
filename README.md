@@ -5,7 +5,7 @@ Real-time packet sniffing using scapy, Detection of high traffic volumes from si
 # Prerequisites
 Python 3.x installed on your system, The scapy library.
 # Installation
-git clone , cd directory, pip install scapy
+git clone https://github.com/aidanmacklen/intrusion_detection_system.git, cd directory, pip install scapy
 # Running Script
 sudo python simple_ids.py
 # Configureation
